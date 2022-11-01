@@ -3,6 +3,10 @@ body {
   background-color: grey;
 }
 
+.img {
+  height: 100px;
+}
+
 .greeting-container {
   display: flex;
   justify-content: center; 
