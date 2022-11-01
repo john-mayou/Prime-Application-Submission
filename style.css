@@ -3,13 +3,6 @@ body {
   background-color: grey;
 }
 
-ul {
-  
-}
-
-div {
-  border: 1px solid;
-}
 
 .greeting-container {
   display: flex;
