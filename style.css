@@ -3,6 +3,10 @@ body {
   background-color: grey;
 }
 
+li {
+  padding-top: 10px;
+}
+
 .img {
   height: 50px;
 }
