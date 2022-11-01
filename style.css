@@ -34,6 +34,10 @@ li {
 }
 
 .company-name {
+  font-size: 24px;
+}
+
+.company-name-div {
   display: flex;
   justify-content: center;
 }
