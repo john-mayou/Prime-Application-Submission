@@ -1,5 +1,6 @@
 body {
   margin: 5%;
+  background-color: grey;
 }
 
 ul {
@@ -13,6 +14,7 @@ div {
 .greeting-container {
   display: flex;
   justify-content: center; 
+  margin-bottom: 30px;
 }
 
 .main {
@@ -45,13 +47,22 @@ div {
   display: flex;
 }
 
-.greeting {
+.greeting-div {
   flex: 1;
+}
 
+.greeting-text {
+  padding-left: 20px;
+  margin:10px
 }
 
 .basic-info {
-  flex: 1;
+  padding-left: 20px;
+  margin: 10px;
+}
+
+.emoji-div {
+  flex: 3;
 }
 
 
@@ -65,7 +76,7 @@ div {
   flex-direction: column;
   border: 1px black solid;
   border-radius: 10px;
-  padding: 15px;
+  padding: 10px;
   margin: 20px 10px;
 }
 
@@ -73,8 +84,8 @@ div {
   padding-left: 20px;
 }
 
-#name {
+#top-sentence-info {
+  margin-top: 50px;
 
 }
-
 
